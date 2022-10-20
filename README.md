@@ -1,3 +1,5 @@
+LICENSED UNDER CREATIVE COMMONS ATTRIBUTION-NONCOMMERCIAL 4.0 INTERNATIONAL
+
 Copyright (c) the respective contributors, as shown by the AUTHORS file.
 
 This repository is free and open for noncommercial redistribution and/or modifications under the terms of the associated license.
