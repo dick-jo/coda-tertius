@@ -1,5 +1,4 @@
-![[page-842.jpg]]
-
+![](./page-842.jpg)
 ## Strategy for building up line value
 
 One of the most enduring difficulties I've faced in bring linework to a finish is in the process of building up the value of the lines themselves in a way that does not seem to tarnish or otherwise harm the liveliness of the underlying sketch.
